@@ -55,7 +55,9 @@
   <img src='https://github.com/user-attachments/assets/65a8d564-8fa7-4d66-86b9-e238feb86143' height="170px" width="229px">
 </div>
 --> 
-<img width="6412" height="2872" alt="image" src="https://github.com/user-attachments/assets/ed30185b-2e11-4293-832f-43e9003d6ad9" />
+<div align='center'>
+<img height="320px" alt="image" src="https://github.com/user-attachments/assets/ed30185b-2e11-4293-832f-43e9003d6ad9" />
+</div>
 
 - [2024-12-02]: HGEMM MMA kernels has been refactored into 🤖[HGEMM](https://github.com/xlite-dev/HGEMM.git): ⚡️Write HGEMM from scratch using Tensor Cores with WMMA, MMA and CuTe API, achieve peak⚡️ performance.
 
